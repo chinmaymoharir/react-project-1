@@ -5,7 +5,7 @@ import Person from './Person/Person'
 const App = props => {
  const [personsState, setPersonsState] = useState({
   persons: [
-    {name: 'Max', age: '28'},
+    {name: 'Chinmay', age: '28'},
     {name: 'Manu', age: '29'},
     {name: 'Stephanie', age: '26'}
   ],
@@ -20,7 +20,7 @@ const App = props => {
   setPersonsState({
     persons: 
     [
-      {name: 'Maxmillian', age: '28'},
+      {name: 'Chinmay Moharir', age: '28'},
       {name: 'Manu', age: '29'},
       {name: 'Stephanie', age: '27'}
     ],
