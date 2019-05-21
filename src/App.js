@@ -55,6 +55,7 @@ togglePersonsHandler = () => {
     padding: '8px',
     cursor: 'pointer'
   }
+  
   return (
     <div className="App">
       <h1>Hi, I'm a React App</h1>
@@ -78,7 +79,7 @@ togglePersonsHandler = () => {
         </div> : null
     }
     
-      
+  
     </div>
   );
 
